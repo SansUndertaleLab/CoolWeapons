@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sNJpDEoE6dwRCZiY+NdF7sAFjUyVGhsFwyGVLp/EuT3gl8u9jaNHXcEwKpt1Jbm8es0AnbKlAK4Zqp8h8VEGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sans\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CoolWeapons\\CoolWeapons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sans\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
